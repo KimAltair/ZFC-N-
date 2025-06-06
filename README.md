@@ -9,7 +9,7 @@ This paper presents a new model of natural numbers within the framework of Zerme
 Kim Altair
 
 # Download the thesis
-[https://github.com/KimAltair/ZFC-D/blob/main/Wonderful%20ZFC_D.pdf](https://github.com/KimAltair/ZFC-N-/blob/2927e982049b245d51558e24195f0814874d5eed/ZFC_N_.pdf)
+[[https://github.com/KimAltair/ZFC-D/blob/main/Wonderful%20ZFC_D.pdf](https://github.com/KimAltair/ZFC-N-/blob/2927e982049b245d51558e24195f0814874d5eed/ZFC_N_.pdf)](https://github.com/KimAltair/ZFC-N-/blob/6be11d8cb46cd6e88ffa238879c6df2a57fdc05f/ZFC_N_.pdf)
 
 ## E mail
 dbnjk515@gmail.com
